@@ -1,0 +1,18 @@
+{
+  "name":"cpp-validator",
+  "version": "1.0.0",
+  "c++_version": "17",
+  "author": {
+    "name": "dush valentin",
+    "email": "codesvalentin@gmail.com",
+    "url": "dushvalentin.vercel.app"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://www.github.com/valentindush/cpp-validator"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
