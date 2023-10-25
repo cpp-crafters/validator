@@ -5,13 +5,11 @@
   "author": {
     "name": "dush valentin",
     "email": "codesvalentin@gmail.com",
-    "url": "dushvalentin.vercel.app"
+    "url": "https://www.dushvalentin.vercel.app"
   },
   "license": "MIT",
   "repository": {
     "url": "https://www.github.com/valentindush/cpp-validator"
-  },
-  "scripts": {
   },
   "dependencies": {
   }
